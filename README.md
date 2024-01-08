@@ -14,7 +14,7 @@ Downloading training and testing datasets and move them into ./datasets/, which 
 You should download the pretrained model from [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV?usp=sharing), and then put it in the './pretrained_pth' folder for initialization. 
 
 ## 4.Well trained model:
-You could download the trained model from [Google Drive](https://drive.google.com/file/d/1t98vV5ZjLCwNl6YLw8zGx-pSU34UX7Ia/view?usp=sharing) and put the model in directory './checkpoint'.
+You could download the trained model from [Google Drive](https://drive.google.com/file/d/1VRjdZ1x70Dh7hPcf3H2Eh1nmIMMyx3Bs/view?usp=drive_link) and put the model in directory './checkpoint'.
 
 ## 5.Training:
 The training results can be found in ./model_pth/. You can try the following code for training:
